@@ -9,7 +9,7 @@ int main(){
     printf("Character entered is lowercase\n");
     }
     else{
-        printf("Character entered is not of lowercase value\n");
+        printf("Character entered is not of lowercase\n");
     }
     return 0;
 }
